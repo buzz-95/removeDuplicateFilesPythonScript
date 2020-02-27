@@ -91,7 +91,7 @@ def delDupsInEachDirectory(dirPath,allFilesListStr):
 			currDirectory = currDirectory[:-1]
 			currDirectory = currDirectory + "/"
 			currFile = currDirectory + fileName
-			print("\n" + currFile + "\n")
+			print("Deleting " + currFile)
 			os.system("rm " + convertedFileName(fileName))
 	allDirectories = os.popen("ls -l | egrep '^d'").read()
 	allDirectoriesList = [directoryLine for directoryLine in allDirectories.split("\n")]
