@@ -4,39 +4,39 @@ The use is as follows: python3 py_repeat_songs_remover.py /path/to/directory
 Example: python3 /home/silver_buzz/Music/py_repeat_songs_remover.py /home/silver_buzz/Music/
 Before Use:
 '''<br>
-directory
-|
-\_
-|  anotherDirectory
-|  |
-|  \_
-|  |  a.txt
-|  \_   
-|  |  b.txt
-|  \_
-|     c.txt
-\_
-|  whatAnotherDirectory
-|  |
-|  \_
-|     b.txt
-\_
-   a.txt
-'''
+directory<br>
+|<br>
+\_<br>
+|  anotherDirectory<br>
+|  |<br>
+|  \_<br>
+|  |  a.txt<br>
+|  \_ <br>
+|  |  b.txt<br>
+|  \_<br>
+|     c.txt<br>
+\_<br>
+|  whatAnotherDirectory<br>
+|  |<br>
+|  \_<br>
+|     b.txt<br>
+\_<br>
+   a.txt<br>
+'''<br>
 After Use:
 '''
-directory
-|
-\_
-|  anotherDirectory
-|  |
-|  \_   
-|  |  b.txt
-|  \_
-|     c.txt
-\_
-|  whatAnotherDirectory
-\_
-   a.txt
-'''
+directory<br>
+|<br>
+\_<br>
+|  anotherDirectory<br>
+|  |<br>
+|  \_<br>   
+|  |  b.txt<br>
+|  \_<br>
+|     c.txt<br>
+\_<br>
+|  whatAnotherDirectory<br>
+\_<br>
+   a.txt<br>
+'''<br>
  Hope you understood.
