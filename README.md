@@ -6,21 +6,21 @@ Before Use:
 '''<br>
 directory<br>
 |<br>
-\_<br>
+\\_<br>
 |  anotherDirectory<br>
 |  |<br>
-|  \_<br>
+|  \\_<br>
 |  |  a.txt<br>
-|  \_ <br>
+|  \\_ <br>
 |  |  b.txt<br>
-|  \_<br>
+|  \\_<br>
 |     c.txt<br>
-\_<br>
+\\_<br>
 |  whatAnotherDirectory<br>
 |  |<br>
-|  \_<br>
+|  \\_<br>
 |     b.txt<br>
-\_<br>
+\\_<br>
    a.txt<br>
 '''<br>
 After Use:
