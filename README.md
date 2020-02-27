@@ -3,6 +3,7 @@ This was just written with the purpose of removing Duplicate songs in multiple d
 The use is as follows: python3 py_repeat_songs_remover.py /path/to/directory
 Example: python3 /home/silver_buzz/Music/py_repeat_songs_remover.py /home/silver_buzz/Music/
 Before Use:
+'''
 directory
 |
 \_
@@ -21,7 +22,9 @@ directory
 |     b.txt
 \_
    a.txt
+'''
 After Use:
+'''
 directory
 |
 \_
@@ -35,4 +38,5 @@ directory
 |  whatAnotherDirectory
 \_
    a.txt
+'''
  Hope you understood.
