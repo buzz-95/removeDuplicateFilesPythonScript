@@ -1,7 +1,7 @@
 # removeDuplicateFilesPythonScript
 This was just written with the purpose of removing Duplicate songs in multiple directories. One can use it for a variety of files by the way. <strong>Note that</strong> 
 <br>1)The python script "py_repeat_songs_remover_byName.py" considers two files with the same name as the same files.
-<br>2)The python script "py_repeat_songs_remover_byFilee.py" considers two files with the same file content as the same files.<br>
+<br>2)The python script "py_repeat_songs_remover_byFile.py" considers two files with the same file content as the same files.<br>
 The use is as follows: python3 py_repeat_songs_remover_byName.py /path/to/directory <br>
 Example: python3 py_repeat_songs_remover_byName.py /home/silver_buzz/directory/ <br>
 <pre><font color="#55FF55"><b>silver_buzz@PC</b></font>:<font color="#5555FF"><b>~</b></font>$ tree directory/
